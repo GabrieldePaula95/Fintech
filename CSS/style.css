@@ -14,7 +14,7 @@
   background-color: var(--bg-color);
 }
 
-#corpo {
+#container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -111,7 +111,7 @@ form a {
     background-image: url(../Assets/Fintech.svg);
   }
 
-  #corpo {
+  #container {
     width: 50%;
     height: 100vh;
   }
